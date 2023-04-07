@@ -10,11 +10,16 @@
  * **News Search**
  * **Offline Support**
  
-
-
-# 📸 Screenshots
-
-
+ 
+ # 📸 Screenshots
+ 
+<img src='https://user-images.githubusercontent.com/87460435/230602012-1f4ee901-8100-410c-88b2-03c85c771943.png' width= '200' height= '400'>&nbsp;&nbsp;&nbsp;&nbsp;<img src='https://user-images.githubusercontent.com/87460435/230602089-d823940f-9043-4e3a-9258-fe54e4cce915.png' width= '200' height= '400'>&nbsp;&nbsp;&nbsp;&nbsp;
+<img src='https://user-images.githubusercontent.com/87460435/230602111-7c42b8ee-dd80-4510-878d-42f1344459ac.png' width= '200' height= '400'>&nbsp;&nbsp;&nbsp;&nbsp;<img src='https://user-images.githubusercontent.com/87460435/230602162-d67d5b57-8baf-4af5-a3e3-e37138bf5631.png' width= '200' height= '400'>&nbsp;&nbsp;&nbsp;&nbsp;
+<img src='https://user-images.githubusercontent.com/87460435/230602183-2f0c1303-de4e-46b6-b920-8fecfb978bb7.png' width= '200' height= '400'>&nbsp;&nbsp;&nbsp;&nbsp;
+<img src='https://user-images.githubusercontent.com/87460435/230602221-da988c30-47b8-4f21-82ae-d4808d3ee94d.png' width= '200' height= '400'>&nbsp;&nbsp;&nbsp;&nbsp;
+<img src='https://user-images.githubusercontent.com/87460435/230602260-5b0028c0-caeb-4b58-8a5f-badfaea4bcf7.png' width= '200' height= '400'>&nbsp;&nbsp;&nbsp;&nbsp;
+<img src='https://user-images.githubusercontent.com/87460435/230602280-884a8662-9201-427b-8aaf-087472ec6893.png' width= '200' height= '400'>&nbsp;&nbsp;&nbsp;&nbsp;
+<img src='https://user-images.githubusercontent.com/87460435/230602309-10f79d98-4e88-491e-98e9-5abfafbaedc2.png' width= '200' height= '400'>&nbsp;&nbsp;&nbsp;&nbsp;
 
 
 # 🔌 Plugins
