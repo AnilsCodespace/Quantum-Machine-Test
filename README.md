@@ -23,13 +23,12 @@
 | ----------------------- | ------------------------------ |
 | Flutter Screen Util     | Responsive UI. Independent of device dimensions| 
 | Firebase Core           | Firebase Integration           |
- 
-| Google Sign In  | Authentication using google account |
+ | Google Sign In  | Authentication using google account |
 | Flutter Local Notifications| Additional features for FCM Push Notification|
 | Firebase Auth        | Add Google authentication|
-| Http                    | Network calls                  |
-| Shared Preferences         | Store user credentials local & Store and access News while offline |
+| Http                    | Network calls|
+| Shared Preferences | Store user credentials local & Store and access News while offline |
 | Connectivity Plus| Check device Internet connection status |
-| Country code picker            | Option to pick country code from all available country codes with flag image   |
+| Country code picker | Option to pick country code from all available country codes with flag image   |
  
  
