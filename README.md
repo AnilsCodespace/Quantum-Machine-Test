@@ -33,7 +33,6 @@
 | Flutter Screen Util     | Responsive UI. Independent of device dimensions| 
 | Firebase Core           | Firebase Integration           |
  | Google Sign In  | Authentication using google account |
-| Flutter Local Notifications| Additional features for FCM Push Notification|
 | Firebase Auth        | Add Google authentication|
 | Http                    | Network calls|
 | Shared Preferences | Store user credentials local & Store and access News while offline |
